@@ -22,6 +22,9 @@ There is another way of generating the report. The generated report can be opene
 $ ./mvnw io.qameta.allure:allure-maven:report
 ```
 
+### Resources
+[Working example](https://examples.javacodegeeks.com/enterprise-java/testng/testng-selenium-integration-example/)
+
 ### More
 
 * [Documentation](https://docs.qameta.io/allure/2.0/)
